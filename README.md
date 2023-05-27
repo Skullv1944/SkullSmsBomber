@@ -15,15 +15,15 @@
 - Siteler Bu Tür Sistemleri Engelllemek İçin En Azından Captcha Kullanabilirler.
 - Bu Tür Sistemler Birden Fazla Site İçin Yapılabilir. Bu Şekilde Bir Hedefi Rahtsız Edebilir.
 
-## Tech Stack
+## Tech Attack
 
 **Server:** Node, Faker, Colors, Request
 
 ---
-- ✨ [Destek İçin](https://fastuptime.com) <br>
-- 💕 [Discord](https://fastuptime.com/discord)<br>
-- 🎖️ [FasterHost Technology](https://fasterhost.tech/)<br>
-- ✨ İletişim için [Tıkla!](mailto:fastuptime@gmail.com)<br>
+- ✨ [Destek İçin](https://discord.gg/zVRSW3eGf5) <br>
+- 💕 [Discord](https://discord.gg/zVRSW3eGf5)<br>
+
+
 
 # License
 - Its protected by Creative Commons ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
