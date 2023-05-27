@@ -3,7 +3,7 @@ const colors = require('colors');
 const title = require('./modules/title.js');
 const fastBomber = require('./modules/sms.js');
 
-title('Hosgeldiniz');
+title('Skull SmsBombera Hoşgeldiniz');
 
 let telefon = rl.question('Telefon Numarası Griniz +90: ' .green);
 if (telefon.length != 10) {
